@@ -12,13 +12,22 @@
   - [LLM Explain](#llm-explain)
 
 ## Chain of thought
+
 1. [231105 Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective](https://github.com/engineerA314/ml_papers/blob/main/papers/2023/230314%20A%20Theory%20of%20Emergent%20In-Context%20Learning%20as%20Implicit%20Structure%20Induction.md)
+
 ## In context learning
+
 1. [230314 A Theory of Emergent In-Context Learning as Implicit Structure Induction](https://github.com/engineerA314/ml_papers/blob/main/papers/2023/230314%20A%20Theory%20of%20Emergent%20In-Context%20Learning%20as%20Implicit%20Structure%20Induction.md)
+
 ## Agent
 
 ## PEFT
 
+1. [230318 Adaptive Budget Allocation for Parameter-Efficient Fine-Tuning](https://github.com/engineerA314/ml_papers/blob/main/papers/2023/230318%20Adaptive%20Budget%20Allocation%20for%20Parameter-Efficient%20Fine-Tuning.md)
+
 ## Architecture
 
 ## LLM Explain
+
+1. [230318 Adaptive Budget Allocation for Parameter-Efficient Fine-Tuning](https://github.com/engineerA314/ml_papers/blob/main/papers/2023/230318%20Adaptive%20Budget%20Allocation%20for%20Parameter-Efficient%20Fine-Tuning.md)
+
