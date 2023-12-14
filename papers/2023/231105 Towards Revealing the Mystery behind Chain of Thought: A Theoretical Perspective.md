@@ -12,4 +12,5 @@ circuit complexity theory 를 이용해, 현실적인 hyperparameter (length, de
 기존 연구들은 좀 비현실적인 (infinite 또는 매우 큰) 가정들을 도입해서 Transformer 가 튜링 완전하다던지, universal function approximator라던지 하는 이야기를 했는데,
 이 논문은 현실적인 가정에서 실제 모델의 필요 크기를 제시했음.
 CoT가 왜 작동하는지에 대한 매우 좋은 설명인 것 같다.
+
 #chain-of-thought
