@@ -59,3 +59,5 @@
 ## RL
 
 1. [231006 Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models](./papers/2023/231006%20Language%20Agent%20Tree%20Search%20Unifies%20Reasoning%20Acting%20and%20Planning%20in%20Language%20Models.md)
+
+2. [240102 Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models](./papers/2024/240102%20Self-Play%20Fine-Tuning%20Converts%20Weak%20Language%20Models%20to%20Strong%20Language%20Models.md)
