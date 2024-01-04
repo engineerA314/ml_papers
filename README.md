@@ -28,7 +28,7 @@
 
 2. [230610 Reflexion: Language Agents with Verbal Reinforcement Learning](./papers/2023/230610%20Reflexion%3A%20Language%20Agents%20with%20Verbal%20Reinforcement%20Learning.md)
 
-3. [231006 Language Agent Tree Search Unified Reasoning Acting and Planning in Language Models](./papers/2023/231006%20Language%20Agent%20Tree%20Search%20Unified%20Reasoning%20Acting%20and%20Planning%20in%20Language%20Models.md)
+3. [231006 Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models](./papers/2023/231006%20Language%20Agent%20Tree%20Search%20Unifies%20Reasoning%20Acting%20and%20Planning%20in%20Language%20Models.md)
 
 ## PEFT
 
@@ -52,10 +52,10 @@
 
 1. [230820 ExpeL: LLM Agents Are Experiential Learners](./papers/2023/230820%20ExpeL%3A%20LLM%20Agents%20Are%20Experiential%20Learners.md)
 
-2. [230610 Reflexion: Language Agents with Verbal Reinforcement Learning](.papers/2023/230610%20Reflexion%3A%20Language%20Agents%20with%20Verbal%20Reinforcement%20Learning.md)
+2. [230610 Reflexion: Language Agents with Verbal Reinforcement Learning](./papers/2023/230610%20Reflexion%3A%20Language%20Agents%20with%20Verbal%20Reinforcement%20Learning.md)
 
-3. [231006 Language Agent Tree Search Unified Reasoning Acting and Planning in Language Models](./papers/2023/231006%20Language%20Agent%20Tree%20Search%20Unified%20Reasoning%20Acting%20and%20Planning%20in%20Language%20Models.md)
+3. [231006 Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models](./papers/2023/231006%20Language%20Agent%20Tree%20Search%20Unifies%20Reasoning%20Acting%20and%20Planning%20in%20Language%20Models.md)
 
 ## RL
 
-1. [231006 Language Agent Tree Search Unified Reasoning Acting and Planning in Language Models](papers/2023/231006%20Language%20Agent%20Tree%20Search%20Unified%20Reasoning%20Acting%20and%20Planning%20in%20Language%20Models.md)
+1. [231006 Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models](./papers/2023/231006%20Language%20Agent%20Tree%20Search%20Unifies%20Reasoning%20Acting%20and%20Planning%20in%20Language%20Models.md)
